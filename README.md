@@ -31,27 +31,27 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/KiddChang02/Email-List">
+  <a href="https://github.com/KiddChang02/Alphabet-Counter">
     <!--
     <img src="images/logo.png" alt="Logo" width="80" height="80">
     -->
   </a>
 
-<h3 align="center">Email List</h3>
+<h3 align="center">Alphabet Counter</h3>
 
   <p align="center">
-    This project creates, reads, updates, deletes, edits, and saves the name and email of that person's name on a .txt file.
+    This project reads a .txt file, and shows the user how many alphabets are in that .txt file.
     <br />
-    <a href="https://github.com/KiddChang02/Email-List"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/KiddChang02/Alphabet-Counter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!--
     <a href="https://github.com/KiddChang02/repo_name">View Demo</a>
     ·
     -->
-    <a href="https://github.com/KiddChang02/Email-List/issues">Report Bug</a>
+    <a href="https://github.com/KiddChang02/Alphabet-Counter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/KiddChang02/Email-List/issues">Request Feature</a>
+    <a href="https://github.com/KiddChang02/Alphabet-Counter/issues">Request Feature</a>
   </p>
 </div>
 
@@ -94,16 +94,8 @@
 [![Product Name Screen Shot][product-screenshot]](images/emailList.PNG)
 -->
 
-The intent and purpose behind this project was to build a python program that allows the user to store emails. The program also loads the email list .txt file.
-There are 5 main inputs the user can choose from.
-
-1. Look up email address
-2. Add name and email address
-3. Change existing email address
-4. Delete name and email address
-5. Quit the program.
-
-Quitting the program saves all the information that was added from the program.
+The intent and purpose behind this project was to build a python program that counts how many letters are in a .txt file.
+There is only one input the user has to submit to the project, which is the name of the .txt file to read.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -209,8 +201,6 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 ## Contact
 
 Kidd Chang - [@linkedin_Kidd_Chang](https://linkedin.com/in/kidd-chang-763258221)
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
