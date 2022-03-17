@@ -1,11 +1,14 @@
 import string
 
+#returns all lowercase letters
 def lowerAlphabet(): 
     return string.ascii_lowercase
 
+#returning the list
 def arrayAlphabet(a): 
     return list(a)
 
+#algorithm to read letters
 def readLetters(d):
     lengDict = len(d)
     lower = lowerAlphabet()
@@ -25,6 +28,7 @@ def readLetters(d):
 
     return inc
 
+#prints alphabet counter
 def histogram(d):
     print("letter    count")
     
@@ -34,6 +38,7 @@ def histogram(d):
     for x in range(26): 
         print("{:10}{}".format(letter[x], value[letter[x]]))
 
+#main function
 def main():
     file = input("Enter file name: ")
     f = open(file, "r")
