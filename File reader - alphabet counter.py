@@ -56,3 +56,5 @@ def main():
     histogram(s)
 
     f.close()
+
+main()    
